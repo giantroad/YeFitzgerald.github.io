@@ -1,0 +1,16 @@
+---
+title: Welcome to the blog
+categories: [About me]
+comments: true
+---
+
+2008-2011: In middle school, I learnt how to learn in `Leshan`.Actually, I never specifically studied for it. There was one exam where I unexpectedly performed very well, going from a middle-range score to first place. After that, I continued to hold the top spot.
+
+2011-2014: In high school, my teacher once described me as "high start, low finish." I learned everything out of interest in the subject, but I didn't like to review. At that time, I felt like my life was a disappointing journey. However, in my senior year, I had a `dream`.
+
+2014-2018: At ECNU, studying Software Engineering was less about learning knowledge and more about learning how to struggle with myself. At ECNU, I feel like I have significant mental struggles, like constantly worrying about things like car accidents or the possibility of a world war, which often leaves me feeling paralyzed and unwilling to do anything. On top of that, my family's business failure made everything feel like a gloomy, bleak world? But thankfully, I have my `dream`, and I enjoy dark humor like Dr. Strangelove. Even when I'm at my lowest point, I can always bounce back and get things done, preventing myself from spiraling into despair. I owe a lot to my ambition for keeping me going.
+
+2018-2020: I went to Tokyo for work and managed to survive the immense pressure of the job and the COVID backdrop, eventually returning to China. There's so much to the story, and it could be overwhelming at times. But it seemed to have a paradoxical effect on me—rather than making me more depressed like during my college years, it actually improved my mindset significantly. Now, even if tomorrow marks the start of World War III, I wouldn't care much. The downside, however, was that during that time, I grew to really dislike being a programmer.
+
+2020-now: After returning to China, I considered transitioning into finance and tried various paths, even earning a securities qualification. But in the end, I realized that, deep down, I truly love programming. In the small world of code, I have control over every component—from its name to its life cycle—and there's an immense sense of achievement in making that world run flawlessly. So, I returned to Shanghai and joined Citi Group. It turns out that what I truly disliked was not the profession of programming, but the work culture in Japan.Now, my life is relatively comfortable—maybe I could buy a house, get married, and have kids, which would be considered a small success in life. But unfortunately, I’m naturally restless. I feel this deep urge to keep pushing forward and to give back to the "dream" that saved my life(in so many ways). I want to pursue graduate studies, to strive out of China, and if possible, to rise even higher.
+
