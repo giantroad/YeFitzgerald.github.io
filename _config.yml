@@ -21,8 +21,8 @@ user:
   name: Ye's zone
   pic: /assets/img/ye.jpg
   picAlt: "yyy"
-  job: a category-centric theme
-  # aboutme: true # comment this out if you don't need the 'about' page.
+  job: His stories and thoughts
+  aboutme: false # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
